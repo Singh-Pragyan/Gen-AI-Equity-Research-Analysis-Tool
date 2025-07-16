@@ -40,7 +40,5 @@ A **Streamlit** web app that provides real-time analysis of Indian and US stocks
 - **ML Models**: Random Forest, Portfolio Optimization (Markowitz Theory)  
 - **Visualization**: Matplotlib, Seaborn, Plotly
 
----
 
-## 📂 Folder Structure
 
